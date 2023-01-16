@@ -98,4 +98,4 @@ try:
 except UserException as e:
     print(e.message)
 
-print(f'\nФинальная группа: \n{gr}')
+print(f'\nГрупа студентів після змін\n{gr}')
